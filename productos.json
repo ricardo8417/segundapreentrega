@@ -1,0 +1,29 @@
+[
+	{
+		"id": 1,
+		"title": "Memoria Ram",
+		"descripcion": "Memoria GeiL DDR4 16GB 3000MHz Super Luce RGB Black",
+		"price": 39550,
+		"thumbnail": "https://acortar.link/HgeG0G",
+		"code": 9542,
+		"stock": 1
+	},
+	{
+		"id": 2,
+		"title": "Notebook",
+		"descripcion": "Notebook Gamer Acer Nitro 5 15.6",
+		"price": "465.999",
+		"thumbnail": "https://acortar.link/SLS5hS",
+		"code": 14320,
+		"stock": 1
+	},
+	{
+		"id": 4,
+		"title": "Gabinete",
+		"descripcion": "Gabinete Kolink Inspire K3 RGB  M-ATX Vidrio Templado",
+		"price": 25700,
+		"thumbnail": "https://acortar.link/BmqxdQ",
+		"code": 10429,
+		"stock": 1
+	}
+]
