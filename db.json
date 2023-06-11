@@ -1,0 +1,11 @@
+[
+	{
+		"id": 1,
+		"title": "Trapeador",
+		"description": "Utencilio del impieza",
+		"price": 200,
+		"thumbnail": "nada",
+		"code": 51,
+		"stock": 10
+	}
+]
